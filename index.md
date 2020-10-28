@@ -1,7 +1,7 @@
 <h1>Esimene veebileht</h1>
 <p>
 <b>194031</b>
-<p>
+</p>
 <h2>Õppima tulevad</h2>
 
 <table>
@@ -28,11 +28,14 @@
 </table>
 <p>
 Need on Taltech-i õppima tulevad noored - tulevased tudengid.
+<p/>
 <p>
 Meil on hea meel, et olete omale sobiva eriala leidnud.
+</p>
 <p>
 Tuult tiibadesse!
+</p>
 <p>
 <a href="https://taltech.ee">Taltech-i koduleht</a>
-<p>
+</p>
 <img src="https://g.delfi.ee/images/pix/564x375/i23FOFCleIw/taltech-90643329.jpg">
