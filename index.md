@@ -42,5 +42,3 @@ Tuult tiibadesse!
 <a href="https://taltech.ee">Taltech-i koduleht</a>
 <p>
 <img src="https://g.delfi.ee/images/pix/564x375/i23FOFCleIw/taltech-90643329.jpg">
-</body>
-</html>
