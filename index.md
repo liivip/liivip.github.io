@@ -28,7 +28,7 @@
 </table>
 <p>
 Need on Taltech-i õppima tulevad noored - tulevased tudengid.
-<p/>
+</p>
 <p>
 Meil on hea meel, et olete omale sobiva eriala leidnud.
 </p>
