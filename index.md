@@ -1,13 +1,9 @@
 
-<!DOCTYPE html>
-<html>
-<head>
+
 <h1>Esimene veebileht</h1>
-</head>
 <p>
 <b>194031</b>
 <p>
-<body>
 <h2>Õppima tulevad</h2>
 
 <table>
